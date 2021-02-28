@@ -1,7 +1,7 @@
 ul li:nth-child(3){
     color:red;
 }
-ul li:last-child{
+ul li:nth-child(4){
     color:red;
 }
 
